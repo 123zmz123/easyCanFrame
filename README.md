@@ -6,7 +6,7 @@ I feel vector tool chain sometimes were too heavy for me, Intel and Motorola for
 
 # how to use it
 
-- put the easyframe.exe in a folder and add the folder path to you system env variable
+- put the ./dist/easyframe.exe in you local PC folder and add the folder path to you system env variable
 - in powershell or git console just call easyframe and add the optional parameter that u need
   
 # optional parameters
